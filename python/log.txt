@@ -1,3 +1,0 @@
-2019-05-16 22:07:43,997 - aa.cpython-35.py[line:11] - WARNING: 这是 loggging a warning message
-2019-05-16 22:07:44,000 - aa.cpython-35.py[line:12] - ERROR: 这是 an loggging error message
-2019-05-16 22:07:44,000 - aa.cpython-35.py[line:13] - CRITICAL: 这是 loggging critical message
